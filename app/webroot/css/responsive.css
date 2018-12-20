@@ -1,0 +1,93 @@
+@media only screen and (max-width : 640px) {
+
+	
+
+	#menu-icon {
+
+		display:inline-block;
+
+	}
+	.heading_title h2{
+
+font-size:18px;
+}
+
+	nav ul, nav:active ul { 
+
+		    position: absolute;
+    padding: 20px;
+   
+    right: 0px;
+    left: 0px;
+    top: 48px;
+    width: 100%;
+    border-radius: 0px 0 0px 0px;
+
+	}
+
+	nav li {
+
+		text-align: center;
+		width: 100%;
+		padding: 10px 0;
+		margin: 0;
+
+	}
+
+	nav:hover ul {
+
+		display: block;
+
+	}
+	.globe img {
+	width:20%;
+ 
+}
+.logo_section p img {
+width:30%;
+    margin: 0px auto !important;
+}
+.left_button {
+  
+    padding: 1px 8px 3px 11px;
+    font-size: 9px;
+}
+.right_button {
+  
+    padding: 1px 8px 3px 11px;
+    font-size: 9px;
+}
+.Menu_bar_left {
+ width: 75%;
+ }
+ .Menu_bar{
+    background: #1565c0;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 9999;
+}
+.Menu_bar ul {
+    background: #1565c0;
+position: absolute;
+    display:none;
+}
+.bkg {
+    background:#fff;
+}
+.sell {
+    width: 100%;
+    margin: 0 auto;
+  background: rgb(21, 101, 192);
+    COLOR: #FFF;
+    padding: 17px;
+	}
+	.drop {
+    color: #141010 !important;
+    background: rgb(21, 101, 192)!important;
+	}
+	.social_icon ul li {
+    display: inline-block;
+    width: 11%;
+}

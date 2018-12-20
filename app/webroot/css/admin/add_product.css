@@ -1,0 +1,74 @@
+.img_default {height:130px; width: 150px;}
+.button_save {position:absolute;right: 12%;}
+.div_img {padding-bottom: 8%;}
+.color-picker .color-button-group{width:33% !important;}
+.active_page {background-color: #F19E1F !important}
+.modal-dialog{margin:0 auto !important;}
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    border: solid 1px #b3a7a7;
+}
+.btn-warning:hover{background:#111975 ;}
+.btn-warning,.btn-success{background:#060c52;border:none;}
+.btn-primary,.btn-danger{background:#060c52;border:none;}
+.btn-warning,.btn-success:hover{background:#111975 ;}
+.btn-primary,.btn-danger:hover{background:#111975 ;}
+.active{background:#ececec !important;}
+.full-width{
+    float:left;width:100%;margin-top:30px;min-height:100px;position:relative;
+}
+.form-style-fake{position:absolute;top:0px;}
+.form-style-base{position:absolute;top:0px;z-index: 999;opacity: 0;}
+.imgCircle{border-radius: 50%;}
+.form-control{padding: 10px 50px;}
+.form-input{height:50px;border-radius: 0px;margin-top: 20px;}
+.Profile-input-file{
+    height:180px;width:180px;left:33%;
+    position: absolute;
+    top: 0px;
+    z-index: 999;
+    opacity: 0 !important;
+}
+.mg-auto{
+    margin:0 auto;max-width: 200px;overflow: hidden;
+}
+.fake-styled-btn{
+    background: #006cad;
+    padding: 10px;
+    color: #fff;
+}
+#main-input{width:250px;}
+.input-place{
+    position: absolute;top:35px;left: 20px;font-size:23px;color:gray;}
+.margin{margin-top:10px;margin-bottom:10px;}
+.truncate {
+    width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.bg-transparent{
+    background: rgba(0,0,0,0.5);float: left;
+    width: 100%;margin-top: 0px;
+}
+
+.custom-form{float: left;width:100%;border-radius: 20px;box-shadow: 0 0 16px #fff;overflow: hidden;
+             background: rgba(255,255,255,0.6);
+}
+.img-section{
+    float: left;width: 100%;padding-top: 15px;padding-bottom: 15px;background: rgba(0,0,0,0.7);position: relative;
+}
+.img-section h4{color:#fff;}
+
+
+
+
+.form_container input[type=text]{width:100%;padding:10px;}
+.form_container textarea{width:100%;padding:10px;}
+.form_container select{width:100%;padding:10px;margin-bottom:4%;}
+/* css use div */
+#myTab i{font-size:30px !important;}
+.board input[type=submit]{padding: 7px 8px;font-size:16px;font-weight: 800;position:fixed;right:10.6%;bottom:0%;}
